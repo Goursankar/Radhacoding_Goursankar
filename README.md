@@ -1,2 +1,2 @@
-# Radhacoding_Goursankar
-beginner student,collection of codes
+# Radhacoding_Goursankar_09
+Collection of codes as a beginner
